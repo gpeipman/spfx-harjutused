@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "react-custompropertypanecontrol",
+    "libraryId": "3d6744d1-1972-4788-8708-44bb7883f73e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-custompropertypanecontrol",
+    "solutionShortDescription": "react-custompropertypanecontrol description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

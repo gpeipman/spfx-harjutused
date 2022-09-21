@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://gunnardev.sharepoint.com/spfx/Lists/Orders/AllItems.aspx",
+      "fieldCustomizers": {
+        "Percent": {
+          "id": "6a0af342-03bb-4585-abab-acb98a85e0e9",
+          "properties": {
+            "sampleText": "Value"
+          }
+        }
+      }
+    },
+    "helloWorldFieldCustomizer": {
+      "pageUrl": "https://gunnardev.sharepoint.com/spfx/Lists/Orders/AllItems.aspx",
+      "fieldCustomizers": {
+        "Percent": {
+          "id": "6a0af342-03bb-4585-abab-acb98a85e0e9",
+          "properties": {
+            "sampleText": "Value"
+          }
+        }
+      }
+    }
+  }
+}

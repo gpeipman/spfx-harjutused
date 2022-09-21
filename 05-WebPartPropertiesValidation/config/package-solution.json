@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-listinfo-client-side-solution",
+    "id": "ae68a785-00bd-45fd-a2ba-b5ed3c010d7d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-listinfo description"
+      },
+      "longDescription": {
+        "default": "react-listinfo description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-listinfo Feature",
+        "description": "The feature that activates elements of the react-listinfo solution.",
+        "id": "58b75649-4257-4d4c-aa0d-b159ebcecaf4",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-listinfo.sppkg"
+  }
+}

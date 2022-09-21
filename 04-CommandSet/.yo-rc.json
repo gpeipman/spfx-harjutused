@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "command-extension",
+    "libraryId": "2e1ee592-9cc0-428b-b7d3-1d35073cf8e0",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "command-extension",
+    "solutionShortDescription": "command-extension description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}

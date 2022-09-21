@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "asset-deployment-webpart",
+    "libraryId": "d35d93b2-0b96-4952-b937-bdf6a3cd7764",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "asset-deployment-webpart",
+    "solutionShortDescription": "asset-deployment-webpart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

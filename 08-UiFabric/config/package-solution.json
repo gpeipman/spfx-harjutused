@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "documentcardexample-webpart-client-side-solution",
+    "id": "f7303381-5b2b-46eb-bb25-f5ab60b0402c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "documentcardexample-webpart description"
+      },
+      "longDescription": {
+        "default": "documentcardexample-webpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "documentcardexample-webpart Feature",
+        "description": "The feature that activates elements of the documentcardexample-webpart solution.",
+        "id": "384eb57a-9583-4c9f-b9db-9799b683e012",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/documentcardexample-webpart.sppkg"
+  }
+}

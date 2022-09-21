@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "hello-world-ext",
+    "libraryId": "7cf4277a-b243-4169-b951-814c4e996c33",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "HelloWorldExt",
+    "solutionShortDescription": "HelloWorldExt description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

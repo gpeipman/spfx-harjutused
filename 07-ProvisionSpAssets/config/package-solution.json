@@ -1,0 +1,52 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "asset-deployment-webpart-client-side-solution",
+    "id": "d35d93b2-0b96-4952-b937-bdf6a3cd7764",
+    "version": "2.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "asset-deployment-webpart description"
+      },
+      "longDescription": {
+        "default": "asset-deployment-webpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "asset-deployment-webpart Feature",
+        "description": "The feature that activates elements of the asset-deployment-webpart solution.",
+        "id": "c5227624-9319-4c25-aeaa-e7ad1943a8dd",
+        "version": "2.0.0.0",
+        "assets": {
+          "elementManifests": [
+            "elements.xml",
+            "elements-v2.xml"
+          ],
+          "elementFiles":[
+            "schema.xml"
+          ],
+          "upgradeActions":[
+            "upgrade-actions-v2.xml"
+          ]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/asset-deployment-webpart.sppkg"
+  }
+}

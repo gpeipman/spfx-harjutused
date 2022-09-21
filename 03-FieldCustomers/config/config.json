@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "hello-world-field-customizer-field-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/helloWorldFieldCustomizer/HelloWorldFieldCustomizerFieldCustomizer.js",
+          "manifest": "./src/extensions/helloWorldFieldCustomizer/HelloWorldFieldCustomizerFieldCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "HelloWorldFieldCustomizerFieldCustomizerStrings": "lib/extensions/helloWorldFieldCustomizer/loc/{locale}.js"
+  }
+}

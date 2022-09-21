@@ -1,0 +1,31 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://gunnardev.sharepoint.com/spfx/Lists/Invoices/AllItems.aspx",
+      "customActions": {
+        "a08ac2f4-1976-4357-918d-8f8b48e0da8a": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {
+            "sampleTextOne": "One item is selected in the list",
+            "sampleTextTwo": "This command is always visible."
+          }
+        }
+      }
+    },
+    "helloWorld": {
+      "pageUrl": "https://gunnardev.sharepoint.com/spfx/Lists/Invoices/AllItems.aspx",
+      "customActions": {
+        "a08ac2f4-1976-4357-918d-8f8b48e0da8a": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {
+            "sampleTextOne": "One item is selected in the list",
+            "sampleTextTwo": "This command is always visible."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-custompropertypanecontrol-client-side-solution",
+    "id": "3d6744d1-1972-4788-8708-44bb7883f73e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-custompropertypanecontrol description"
+      },
+      "longDescription": {
+        "default": "react-custompropertypanecontrol description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-custompropertypanecontrol Feature",
+        "description": "The feature that activates elements of the react-custompropertypanecontrol solution.",
+        "id": "ca423f14-9659-4547-85e2-60848ddcd6bd",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-custompropertypanecontrol.sppkg"
+  }
+}
