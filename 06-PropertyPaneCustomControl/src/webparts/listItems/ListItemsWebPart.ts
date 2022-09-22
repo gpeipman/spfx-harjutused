@@ -186,6 +186,7 @@ export default class ListItemsWebPart extends BaseClientSideWebPart<IListItemsWe
             }
           ]
         };
+
         if(wp.properties.listName == 'sharedDocuments')
         {
           resolve(items.sharedDocuments);
@@ -198,6 +199,7 @@ export default class ListItemsWebPart extends BaseClientSideWebPart<IListItemsWe
         {
           resolve([]);
         }
+
       }, 2000);
     });
   }
