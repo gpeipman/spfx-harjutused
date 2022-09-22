@@ -2,9 +2,15 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Extensions are client-side components that run inside the context of a SharePoint page. Extensions can be deployed to SharePoint Online, and you can use modern JavaScript tools and libraries to build them.
 
-[picture of the solution in action, if possible]
+<div style="text-align:center">
+    <img src="ext-field-render-field-without-debug.png" alt="Example of field customizer" />
+</div>
+
+## Exercises
+
+* [Build your first Field Customizer extension](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/get-started/building-simple-field-customizer)
 
 ## Used SharePoint Framework Version
 
@@ -20,8 +26,6 @@ Short summary on functionality and used technologies.
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 

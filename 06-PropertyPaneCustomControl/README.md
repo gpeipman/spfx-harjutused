@@ -2,9 +2,15 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+The SharePoint Framework contains a set of standard controls for the property pane. But sometimes you need additional functionality beyond the basic controls. You might need asynchronous updates to the data on a control or a specific user interface. Build a custom control for the property pane to get the functionality you need. You'll build a custom dropdown control that loads its data asynchronously from an external service without blocking the user interface of the web part.
 
-[picture of the solution in action, if possible]
+<div style="text-align:center">
+    <img src="custom-property-pane-control-cascading-selected-list-item.png" alt="Custom cascading dropdowns on web part property pane" />
+</div>
+
+## Exercises
+
+* [Build custom controls for the property pane](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/web-parts/guidance/build-custom-property-pane-controls)
 
 ## Used SharePoint Framework Version
 
@@ -20,8 +26,6 @@ Short summary on functionality and used technologies.
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 

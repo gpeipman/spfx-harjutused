@@ -2,9 +2,11 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+When working with SharePoint Framework client-side web parts, users can configure them to meet their needs by using their properties. By validating the provided configuration values, you can make it easier for users to configure the web part and improve the overall user experience of working with your web part.
 
-[picture of the solution in action, if possible]
+## Exercises
+
+* [Validate web part property values](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/web-parts/guidance/validate-web-part-property-values)
 
 ## Used SharePoint Framework Version
 
@@ -20,8 +22,6 @@ Short summary on functionality and used technologies.
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 

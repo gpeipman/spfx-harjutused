@@ -2,9 +2,15 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Extensions are client-side components that run inside the context of a SharePoint page. Extensions can be deployed to SharePoint Online, and you can use modern JavaScript tools and libraries to build them.
 
-[picture of the solution in action, if possible]
+<div style="text-align:center">
+    <img src="ext-com-default-customizer-btn-click.png" alt="Dialog opened by custom list command" />
+</div>
+
+## Exercises
+
+* [Build your first ListView Command Set extension](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/get-started/building-simple-cmdset-with-dialog-api)
 
 ## Used SharePoint Framework Version
 

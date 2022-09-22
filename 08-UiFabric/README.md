@@ -2,9 +2,15 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Office UI Fabric React is the front-end framework for building experiences for Office and Office 365. It includes a robust collection of responsive, mobile-first components that make it easy for you to create web experiences by using the Office Design Language.
 
-[picture of the solution in action, if possible]
+<div style="text-align:center">
+    <img src="fabric-components-doc-card-view-ex.png" alt="Fluent UI document card" />
+</div>
+
+## Exercises
+
+* [Use Office UI Fabric React components in your SharePoint client-side web part](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/web-parts/get-started/use-fabric-react-components)
 
 ## Used SharePoint Framework Version
 
@@ -20,8 +26,6 @@ Short summary on functionality and used technologies.
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 

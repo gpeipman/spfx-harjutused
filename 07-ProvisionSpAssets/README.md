@@ -2,9 +2,15 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+SharePoint assets can be provisioned as part of the SharePoint Framework solution, and are deployed to SharePoint sites when the solution is installed on it.
 
-[picture of the solution in action, if possible]
+<div style="text-align:center">
+    <img src="tutorial-feature-solution-list-view.png" alt="Provisioning SharePoint assets using SharePoint Framework">
+</div>
+
+## Exercises
+
+* [Provision SharePoint assets from your SharePoint client-side web part](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/web-parts/get-started/provision-sp-assets-from-package)
 
 ## Used SharePoint Framework Version
 
@@ -20,8 +26,6 @@ Short summary on functionality and used technologies.
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 

@@ -4,7 +4,9 @@
 
 SharePoint Framework (SPFx) Extensions are client-side components that run inside the context of a SharePoint page. You can deploy extensions to SharePoint Online, and you can use modern JavaScript tools and libraries to build them.
 
-![Application customizer visible at page header and footer](ext-app-header-footer-visible.png)
+<div style="text-align:center">
+    <img src="ext-app-header-footer-visible.png" alt="Application customizer visible at page header and footer" />
+</div>
 
 ## Exercises
 
