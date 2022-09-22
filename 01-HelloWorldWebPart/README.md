@@ -2,9 +2,16 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Client-side web parts are client-side components that run in the context of a SharePoint page. Client-side web parts can be deployed to SharePoint environments that support the SharePoint Framework. You can also use modern JavaScript web frameworks, tools, and libraries to build them.
 
-[picture of the solution in action, if possible]
+![Modern page web part](sp-wp-modern-page-pp.png)
+
+## Exercises
+
+1. [Build your first SharePoint client-side web part (Hello World part 1)](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
+2. [Connect your client-side web part to SharePoint](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint)
+3. [Deploy your client-side web part to a SharePoint page (Hello World part 3)](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/web-parts/get-started/serve-your-web-part-in-a-sharepoint-page)
+4. [Host your client-side web part from Microsoft 365 CDN (Hello World part 4)](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/web-parts/get-started/hosting-webpart-from-office-365-cdn)
 
 ## Used SharePoint Framework Version
 
@@ -20,8 +27,6 @@ Short summary on functionality and used technologies.
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 

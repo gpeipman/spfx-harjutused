@@ -2,9 +2,17 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+SharePoint Framework (SPFx) Extensions are client-side components that run inside the context of a SharePoint page. You can deploy extensions to SharePoint Online, and you can use modern JavaScript tools and libraries to build them.
 
-[picture of the solution in action, if possible]
+![Application customizer visible at page header and footer](ext-app-header-footer-visible.png)
+
+## Exercises
+
+1. [Build your first SharePoint Framework Extension (Hello World part 1)](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension)
+2. [Use page placeholders from Application Customizer (Hello World part 2)](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/get-started/using-page-placeholder-with-extensions)
+3. [Deploy your extension to SharePoint (Hello World part 3)](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/get-started/serving-your-extension-from-sharepoint)
+4. [Host an SPFx extension from the Microsoft 365 CDN (Hello World part 4)](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/get-started/hosting-extension-from-office365-cdn)
+5. [Configure extension icon](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/basics/configure-extension-icon)
 
 ## Used SharePoint Framework Version
 
@@ -20,8 +28,6 @@ Short summary on functionality and used technologies.
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 
