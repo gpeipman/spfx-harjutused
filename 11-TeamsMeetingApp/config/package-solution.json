@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "teams-meeting-app-client-side-solution",
+    "id": "8e0f0660-ae6a-4018-89ad-0a7b16d28187",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "teams-meeting-app description"
+      },
+      "longDescription": {
+        "default": "teams-meeting-app description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "teams-meeting-app Feature",
+        "description": "The feature that activates elements of the teams-meeting-app solution.",
+        "id": "b175b4bf-3a58-438c-bbfb-6ee7a342b788",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/teams-meeting-app.sppkg"
+  }
+}

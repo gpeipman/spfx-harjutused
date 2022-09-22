@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "teams-meeting-app",
+    "libraryId": "8e0f0660-ae6a-4018-89ad-0a7b16d28187",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "teams-meeting-app",
+    "solutionShortDescription": "teams-meeting-app description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

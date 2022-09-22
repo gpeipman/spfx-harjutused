@@ -1,0 +1,52 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.8",
+    "packageName": "MyFirstTeamsMeetingApp",
+    "id": "296f8027-9cec-4eb8-878d-2871430952b5",
+    "version": "1.0",
+    "developer": {
+        "name": "",
+        "websiteUrl": "https://example.com",
+        "privacyUrl": "https://example.com/privacy/",
+        "termsOfUseUrl": "https://example.com/tos/",
+        "mpnId": ""
+      },
+    "name": {
+      "short": "MyFirstTeamsMeetingApp"
+    },
+    "description": {
+      "short": "My first Teams meeting app",
+      "full": "My first Teams meeting app"
+    },
+    "icons": {
+      "outline": "296f8027-9cec-4eb8-878d-2871430952b5_outline.png",
+      "color": "296f8027-9cec-4eb8-878d-2871430952b5_color.png"
+    },
+    "accentColor": "#004578",
+    "configurableTabs": [
+      {
+        "configurationUrl": "https://{teamSiteDomain}/_layouts/15/TeamsLogon.aspx?SPFX=true&dest=/_layouts/15/teamshostedapp.aspx%3Fteams%26componentId=296f8027-9cec-4eb8-878d-2871430952b5",
+        "canUpdateConfiguration": false,
+        "scopes": [
+          "team",
+          "groupchat"
+        ],
+        "context": [
+          "channelTab",
+          "privateChatTab",
+          "meetingSidePanel",
+          "meetingDetailsTab",
+          "meetingChatTab"
+        ]
+      }
+    ],
+    "validDomains": [
+      "*.login.microsoftonline.com",
+      "*.sharepoint.com",
+      "resourceseng.blob.core.windows.net"
+    ],
+    "webApplicationInfo": {
+      "resource": "https://{teamSiteDomain}",
+      "id": "00000003-0000-0ff1-ce00-000000000000"
+    }
+  }
