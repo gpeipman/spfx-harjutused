@@ -1,16 +1,18 @@
-# CommandSet Extension
+# Tutorial: Create a Word task pane add-in
 
 ## Summary
 
-Extensions are client-side components that run inside the context of a SharePoint page. Extensions can be deployed to SharePoint Online, and you can use modern JavaScript tools and libraries to build them.
+In this tutorial, you'll create a Word task pane add-in that:
 
-<div style="text-align:center">
-    <img src="ext-com-default-customizer-btn-click.png" alt="Dialog opened by custom list command" />
-</div>
+* Inserts a range of text
+* Formats text
+* Replaces text and inserts text in various locations
+* Inserts images, HTML, and tables
+* Creates and updates content controls
 
 ## Exercises
 
-* [Build your first ListView Command Set extension](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/get-started/building-simple-cmdset-with-dialog-api)
+* [Tutorial: Create a Word task pane add-in](https://learn.microsoft.com/en-us/office/dev/add-ins/tutorials/word-tutorial)
 
 ## Used SharePoint Framework Version
 
@@ -26,8 +28,6 @@ Extensions are client-side components that run inside the context of a SharePoin
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 

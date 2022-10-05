@@ -1,16 +1,12 @@
-# CommandSet Extension
+# Build an Excel task pane add-in
 
 ## Summary
 
-Extensions are client-side components that run inside the context of a SharePoint page. Extensions can be deployed to SharePoint Online, and you can use modern JavaScript tools and libraries to build them.
-
-<div style="text-align:center">
-    <img src="ext-com-default-customizer-btn-click.png" alt="Dialog opened by custom list command" />
-</div>
+You can create an Office Add-in by using the Yeoman generator for Office Add-ins or Visual Studio. The Yeoman generator creates a Node.js project that can be managed with Visual Studio Code or any other editor, whereas Visual Studio creates a Visual Studio solution.
 
 ## Exercises
 
-* [Build your first ListView Command Set extension](https://learn.microsoft.com/et-ee/sharepoint/dev/spfx/extensions/get-started/building-simple-cmdset-with-dialog-api)
+* [Build an Excel task pane add-in](https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-jquery)
 
 ## Used SharePoint Framework Version
 
@@ -26,8 +22,6 @@ Extensions are client-side components that run inside the context of a SharePoin
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
----
 
 ## References
 

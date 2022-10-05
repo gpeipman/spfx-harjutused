@@ -14,7 +14,7 @@ SharePoint assets can be provisioned as part of the SharePoint Framework solutio
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.13-green.svg)
+![version](https://img.shields.io/badge/version-1.15-green.svg)
 
 ## Applies to
 

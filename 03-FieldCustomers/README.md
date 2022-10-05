@@ -14,7 +14,7 @@ Extensions are client-side components that run inside the context of a SharePoin
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.13-green.svg)
+![version](https://img.shields.io/badge/version-1.15-green.svg)
 
 ## Applies to
 

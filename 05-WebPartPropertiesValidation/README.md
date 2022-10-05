@@ -10,7 +10,7 @@ When working with SharePoint Framework client-side web parts, users can configur
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.13-green.svg)
+![version](https://img.shields.io/badge/version-1.15-green.svg)
 
 ## Applies to
 

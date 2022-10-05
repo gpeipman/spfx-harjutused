@@ -10,7 +10,7 @@ Starting with the SharePoint Framework v1.8, you can implement your Microsoft Te
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.13-green.svg)
+![version](https://img.shields.io/badge/version-1.15-green.svg)
 
 ## Applies to
 

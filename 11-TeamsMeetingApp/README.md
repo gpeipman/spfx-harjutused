@@ -14,7 +14,7 @@ The SharePoint Framework (SPFx) v1.8 release introduced the ability to use SPFx 
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.13-green.svg)
+![version](https://img.shields.io/badge/version-1.15-green.svg)
 
 ## Applies to
 
