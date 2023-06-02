@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.2",
+    "libraryName": "birthdays",
+    "libraryId": "3f282774-8d25-4a86-961a-722bf4c41eac",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Birthdays",
+    "solutionShortDescription": "Birthdays description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
